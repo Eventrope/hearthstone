@@ -1,3 +1,6 @@
+
+
+#pip install pygetwindow pywinauto screeninfo
 #!/usr/local/bin/python3
 import pyautogui
 import keyboard
